@@ -1,0 +1,36 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+
+  body{
+    background: url(https://wallpaperaccess.com/full/26174.png);
+    background-size: cover;
+}
+  
+
+
+/* Version Control Title */
+.title{
+    text-align: center;
+    font-size: xx-large;
+    color: aqua;
+}
+
+/* ---- Question Section ---- */
+  .questions{
+    text-align: center;
+    margin-top: 100px;
+  }
+
+  /* Questions */
+  .questions h1{
+    color: green;
+    font-size: x-large;
+  }
+
+  /* Answers */
+  .questions p{
+    color: white;
+    font-size: large;
+  }
